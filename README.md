@@ -22,4 +22,10 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+[Prompt Engineering ex2.pdf](https://github.com/user-attachments/files/26044030/Prompt.Engineering.ex2.pdf)
+
+
 RESULT:
+
+
+Testing various platforms and summarizing is done successfully.
